@@ -188,5 +188,6 @@ h2 {
 }
 
 #calendar {
-    margin: 0 auto;
+    width: 25%;
+    align-items: center;
 }
